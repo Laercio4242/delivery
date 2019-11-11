@@ -1,3 +1,4 @@
 # delivery
 
-Projeto com angular
+*Front-End (Angular).
+*Back (Spring)
